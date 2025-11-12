@@ -12,7 +12,7 @@
     height:100vh;
     width:100vw;
     border:1px transparent black;
-    background-image: url(file:///Users/ishwaryanakka/Downloads/places-master/assets/images/bg_1.jpg);
+    background-image: url("/Users/ishwaryanakka/Documents/Miniproject_html_css/images/image.png");
     background-size: 100vw 100vh;
     opacity:0.98;
 }
@@ -413,25 +413,25 @@ transition: all 1.5s ease-in-out 0.5s;
 .i1{
     width:50%;
     height:270px;
-    background-image: url("file:///Users/ishwaryanakka/Downloads/places-master/assets/images/sq_img_1.jpg");
+    background-image: url("images/img1.png");
     background-size: cover;
 }
 .i2{
     width:50%;
     height:270px;
-    background-image: url("file:///Users/ishwaryanakka/Downloads/places-master/assets/images/img_4.jpg");
+    background-image: url("images/img4.jpg");
     background-size: cover;
 }
 .i3{
     width:50%;
     height:270px;
-    background-image: url("file:///Users/ishwaryanakka/Downloads/places-master/assets/images/sq_img_2.jpg");
+    background-image: url("images/img5.jpg");
     background-size: cover;
 }
 .i4{
     width:50%;
     height:270px;
-    background-image: url("file:///Users/ishwaryanakka/Downloads/places-master/assets/images/img_5.jpg");
+    background-image: url("images/bimg1.jpg");
     background-size: cover;
 }
 .m1{
@@ -463,25 +463,25 @@ transition: all 1.5s ease-in-out 0.5s;
 .i11{
     width:50%;
     height:350px;
-    background-image: url("file:///Users/ishwaryanakka/Downloads/places-master/assets/images/sq_img_1.jpg");
+    background-image: url("images/img1.png");
     background-size: cover;
 }
 .i22{
     width:50%;
     height:350px;
-    background-image: url("file:///Users/ishwaryanakka/Downloads/places-master/assets/images/img_4.jpg");
+    background-image: url("images/img4.jpg");
     background-size: cover;
 }
 .i33{
     width:50%;
     height:350px;
-    background-image: url("file:///Users/ishwaryanakka/Downloads/places-master/assets/images/sq_img_2.jpg");
+    background-image: url("images/img5.jpg");
     background-size: cover;
 }
 .i44{
     width:50%;
     height:350px;
-    background-image: url("file:///Users/ishwaryanakka/Downloads/places-master/assets/images/img_5.jpg");
+    background-image: url("images/bimg1.jpg"));
     background-size: cover;
 }
 .m11{
